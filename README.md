@@ -1,4 +1,4 @@
-## md2 solution:https://tharun-siliveri.github.io/coursera-test/md2-solution/
+## md2 solution:https://tharun-siliveri.github.io/coursera-test/md2-solution/assigment.html
 ## md3 solution: https://tharun-siliveri.github.io/coursera-test/md3-solution/
 ## md4 solution: https://tharun-siliveri.github.io/coursera-test/md4-solution/
 
